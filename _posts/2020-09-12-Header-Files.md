@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Header files names in C, C++, and POSIX"
-categories: cpsc351 c cpp posix
+tag: cpsc351
 ---
 
 A student in [CPSC 351](https://sites.google.com/view/cpsc-351/fall-2020) asks:
