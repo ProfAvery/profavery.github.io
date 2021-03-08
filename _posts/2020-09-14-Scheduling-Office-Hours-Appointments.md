@@ -18,6 +18,6 @@ To sign up for an appointment in Canvas:
 
 For a detailed walkthrough with screenshots, see [How do I sign up for a Scheduler appointment in the Calendar?](https://community.canvaslms.com/t5/Student-Guide/How-do-I-sign-up-for-a-Scheduler-appointment-in-the-Calendar/ta-p/536)
 
-## Then what does the "Office Hours - Scheduled Appointments" link do?
+## Then what does the "Office Hours - Scheduled Appointments" link in Canvas do?
 
-**Office Hours - Scheduled Appointments** is what click to enter the meeting at the scheduled time. You'll enter a Zoom waiting room. This ensures that our appointment is private by allowig me to admit only one student at a time.
+**Office Hours - Scheduled Appointments** is what you'll click to enter the meeting at the scheduled time. You'll enter a Zoom waiting room. This ensures that our appointment is private by allowig me to admit only one student at a time.
