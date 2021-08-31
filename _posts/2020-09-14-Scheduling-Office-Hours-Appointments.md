@@ -7,7 +7,7 @@ A student asks:
 
 > Can you show me how to schedule a private appointment with you using Canvas? 
 >
-> When I click "Office Hours – Scheduled Appointments" in the Canvas course, it leads to a Zoom meeting that keeps me waiting forever. I'm not sure what to do next.
+> When I click "Office Hours" in the Canvas course, it leads to a Zoom meeting that keeps me waiting forever. I'm not sure what to do next.
 
 ## Scheduling an appointment
 
@@ -18,6 +18,6 @@ To sign up for an appointment in Canvas:
 
 For a detailed walkthrough with screenshots, see [How do I sign up for a Scheduler appointment in the Calendar?](https://community.canvaslms.com/t5/Student-Guide/How-do-I-sign-up-for-a-Scheduler-appointment-in-the-Calendar/ta-p/536)
 
-## Then what does the "Office Hours - Scheduled Appointments" link in Canvas do?
+## Then what does the "Office Hours" link in Canvas do?
 
-**Office Hours - Scheduled Appointments** is what you'll click to enter the meeting at the scheduled time. You'll enter a Zoom waiting room. This ensures that our appointment is private by allowig me to admit only one student at a time.
+**Office Hours** is what you'll click to enter the meeting. If you join during walk-in hours, you'll enter a meeting that may include other students. If you join at the scheduled time you'll enter a Zoom waiting room. This ensures that our appointment is private by allowing me to admit only one student at a time.
